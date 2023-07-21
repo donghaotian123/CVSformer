@@ -29,6 +29,8 @@ You can train your segmentation to obtain the 2D input of CVSformer. We pre-trai
     $ python setup.py install
     $ python -m torch.distributed.launch --nproc_per_node=$NGPUS train.py 
 ## Performance
+You can obtain our SOTA model from https://pan.xunlei.com/s/VN_rkyLfy43RBn1BfXwrTJtGA1?pwd=qumh#.
+
 NYU
 <table>
   <tr>
