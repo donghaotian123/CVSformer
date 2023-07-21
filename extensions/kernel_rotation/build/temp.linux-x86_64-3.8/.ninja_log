@@ -1,0 +1,6 @@
+# ninja log v5
+0	19304	1660032702643958913	/mnt/Disk8T/donght/SISNet_Attention/extensions/kernel_rotation/build/temp.linux-x86_64-3.8/kernel_rotation_cuda.o	18b2300586a4e3bc
+1	38591	1660032721928018783	/mnt/Disk8T/donght/SISNet_Attention/extensions/kernel_rotation/build/temp.linux-x86_64-3.8/kernel_rotation_gpu.o	ff557348b24a8c41
+3	38269	1660032773624183640	/mnt/Disk8T/donght/SISNet_Attention/extensions/kernel_rotation/build/temp.linux-x86_64-3.8/kernel_rotation_gpu.o	ff557348b24a8c41
+26	16896	1684916169554215845	/mnt/Disk8T/donght/SISNET-MEH-V2/SISNet/extensions/kernel_rotation/build/temp.linux-x86_64-3.8/kernel_rotation_cuda.o	d27d4444bbdabc2f
+26	36488	1684916189142286404	/mnt/Disk8T/donght/SISNET-MEH-V2/SISNet/extensions/kernel_rotation/build/temp.linux-x86_64-3.8/kernel_rotation_gpu.o	994b2ed7e9a8e505

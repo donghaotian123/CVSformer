@@ -1,0 +1,3 @@
+# ninja log v5
+1	18060	1648885701124431149	/mnt/Disk8T/donght/SISNet/furnace/seg_opr/sync_bn/src/gpu/build/temp.linux-x86_64-3.8/syncbn_kernel.o	7ff3a90d77fc04eb
+0	18972	1648885702036434248	/mnt/Disk8T/donght/SISNet/furnace/seg_opr/sync_bn/src/gpu/build/temp.linux-x86_64-3.8/operator.o	b986e60bdbd97b06
